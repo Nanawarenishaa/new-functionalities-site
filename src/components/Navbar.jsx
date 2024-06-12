@@ -5,8 +5,6 @@ import { FaCircleUser, FaCartPlus } from "react-icons/fa6";
 import { RiMenu3Line } from "react-icons/ri";
 import { MdCancel } from "react-icons/md";
 import { useState } from "react";
-
-import Signin from "../auth/Signin";
 const Navbar = () => {
   const [navOpen , setNavOpen] = useState(false);
   return (
