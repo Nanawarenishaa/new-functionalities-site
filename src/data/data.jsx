@@ -6,6 +6,54 @@ export const navItems = [
   { label: "Contact", href: "/contact" },
 ];
 
+
+export const TestimonialData = [
+  
+   
+      {
+        name: "Jane Doe",
+        title: "CEO, Tech Innovators",
+        testimonial: "This product exceeded our expectations and has significantly boosted our team's productivity. The support team is also very responsive and helpful.",
+        date: "2024-05-10",
+        rating: 5,
+        image_url: "https://media.istockphoto.com/id/1277971635/photo/portrait-of-a-smiling-man-of-indian-ethnicity.jpg?s=1024x1024&w=is&k=20&c=Ve_FZ5p_gO5Kd3gkW6nVicgiwAi5I0lXcW_L4MGKLEY="
+      },
+      {
+        name: "John Smith",
+        title: "Freelance Developer",
+        testimonial: "I love the intuitive interface and the wide range of features. It has made my workflow much smoother.",
+        date: "2024-04-22",
+        rating: 4,
+        image_url: "https://media.istockphoto.com/id/1407084622/photo/portrait-of-smiling-mature-women.jpg?s=1024x1024&w=is&k=20&c=jrH86KrRSUS6F-goxHUuSSsZUnP6QLza9SXKvyLhFl8="
+      },
+      {
+        name: "Emily Johnson",
+        title: "Project Manager, Creative Solutions",
+        testimonial: "A game-changer for our projects! The collaboration tools have made it so much easier to keep everyone on the same page.",
+        date: "2024-03-15",
+        rating: 5,
+        image_url: "https://media.istockphoto.com/id/1270257234/photo/portrait-of-cheerful-millennial-man-with-perfect-teeth.jpg?s=612x612&w=0&k=20&c=BYswdtcJEuXo-BWggQvyxRSvfuPTZCUK6ruOfA33-fk="
+      },
+      {
+        name: "Michael Brown",
+        title: "Operations Director, Global Enterprises",
+        testimonial: "Reliable, efficient, and user-friendly. We have seen a noticeable  efficiency since implementing this solution.",
+        date: "2024-01-30",
+        rating: 4,
+        image_url: "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fGZhY2V8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        name: "Samantha Lee",
+        title: "Marketing Specialist, Bright Ideas",
+        testimonial: "Fantastic customer service and an outstanding product. It has made a significant impact on our marketing campaigns.",
+        date: "2023-12-18",
+        rating: 5,
+        image_url: "https://images.unsplash.com/photo-1456327102063-fb5054efe647?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D"
+      }
+    
+  
+  
+]
 export const popularProducts = [
   {
     id: 1,
